@@ -1,0 +1,68 @@
+{
+  "title": "CISA Known Exploited Vulnerabilities Catalog",
+  "catalogVersion": "2026.02.10",
+  "dateReleased": "2026-02-10T00:00:00Z",
+  "count": 5,
+  "vulnerabilities": [
+    {
+      "cveID": "CVE-2026-0001",
+      "vendorProject": "AcmeCorp",
+      "product": "AI Security Suite",
+      "vulnerabilityName": "AcmeCorp AI Security Suite RCE",
+      "dateAdded": "2026-02-01",
+      "shortDescription": "AcmeCorp AI Security Suite contains a vulnerability in its machine learning inference engine that allows remote code execution.",
+      "requiredAction": "Apply updates per vendor instructions.",
+      "dueDate": "2026-02-15",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": ""
+    },
+    {
+      "cveID": "CVE-2026-0002",
+      "vendorProject": "SQLVendor",
+      "product": "SQLVendor DB",
+      "vulnerabilityName": "SQLVendor DB SQL Injection",
+      "dateAdded": "2026-01-15",
+      "shortDescription": "SQLVendor DB contains a SQL injection vulnerability in the query parser that allows unauthorized data access.",
+      "requiredAction": "Apply updates per vendor instructions.",
+      "dueDate": "2026-02-01",
+      "knownRansomwareCampaignUse": "Known",
+      "notes": ""
+    },
+    {
+      "cveID": "CVE-2026-0003",
+      "vendorProject": "DeepVision",
+      "product": "DeepVision Analytics",
+      "vulnerabilityName": "DeepVision Analytics Privilege Escalation",
+      "dateAdded": "2026-02-05",
+      "shortDescription": "DeepVision Analytics deep learning model serving component has a privilege escalation vulnerability allowing unauthorized access to the neural network training pipeline.",
+      "requiredAction": "Apply updates per vendor instructions.",
+      "dueDate": "2026-02-20",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": ""
+    },
+    {
+      "cveID": "CVE-2026-0004",
+      "vendorProject": "NetRouter",
+      "product": "NetRouter Firewall",
+      "vulnerabilityName": "NetRouter Firewall Auth Bypass",
+      "dateAdded": "2026-01-20",
+      "shortDescription": "NetRouter Firewall contains an authentication bypass allowing attackers to gain administrative access to the AVAILABILITY monitoring dashboard.",
+      "requiredAction": "Apply updates per vendor instructions.",
+      "dueDate": "2026-02-05",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": ""
+    },
+    {
+      "cveID": "CVE-2026-0005",
+      "vendorProject": "ChatAssist",
+      "product": "ChatAssist Pro",
+      "vulnerabilityName": "ChatAssist Pro LLM Prompt Injection",
+      "dateAdded": "2026-02-08",
+      "shortDescription": "ChatAssist Pro contains a prompt injection vulnerability in its LLM-powered chatbot that allows extraction of system prompts and sensitive data.",
+      "requiredAction": "Apply updates per vendor instructions.",
+      "dueDate": "2026-02-22",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": ""
+    }
+  ]
+}

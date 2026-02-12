@@ -1,0 +1,6 @@
+Report ID,Report Version,Reporting Entity,Report Type,Report Month,Report Year,Report Submission Date,VIN,Make,Model,Model Year,Incident Date,Incident Time,City,State,Highest Injury Severity,Number of Vehicles Involved,ADS Was Engaged at Time of Incident,Property Damage
+30610-13377,1,Zoox,Initial,11,2025,2025-11-20,1HGBH41JXMN109186,TOYOTA,Highlander,2019,NOV-2025,14:30,Miami,FL,None,2,Yes,Minor
+30610-13376,1,Zoox,Initial,11,2025,2025-11-18,,ZOOX,Zoox,2025,NOV-2025,09:15,Las Vegas,NV,None,3,Yes,Moderate
+30270-13373,1,Waymo,Initial,11,2025,2025-11-15,5YJSA1E27LF012345,JAGUAR,I-PACE,2024,OCT-2025,16:45,Los Angeles,CA,Minor,2,Yes,Minor
+30270-13370,1,Waymo,Initial,12,2025,2025-12-10,5YJSA1E27LF012346,JAGUAR,I-PACE,2024,DEC-2025,11:00,San Francisco,CA,None,2,Yes,Property Damage Only
+30270-13360,1,Cruise,Initial,9,2025,2025-09-15,1G1YY22G965109876,CHEVROLET,Bolt,2023,SEP-2025,08:30,San Francisco,CA,Suspected Serious,2,Yes,Severe

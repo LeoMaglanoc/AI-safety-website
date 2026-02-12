@@ -1,0 +1,46 @@
+services:
+  test-scrapers:
+    build: .
+    command: pytest scrapers/tests/ -v
+    volumes:
+      - ./data:/app/data
+
+  test-frontend:
+    build: .
+    command: sh -c "cd site/tests && npx jest --verbose"
+
+  test-e2e:
+    build: .
+    command: sh -c "cd e2e && npx playwright test"
+    volumes:
+      - ./data:/app/data
+
+  test-all:
+    build: .
+    command: >
+      sh -c "pytest scrapers/tests/ -v &&
+             cd /app/site/tests && npx jest --verbose &&
+             cd /app/e2e && npx playwright test"
+    volumes:
+      - ./data:/app/data
+
+  scrape-av:
+    build: .
+    command: python scrapers/fetch_av_collisions.py
+    volumes:
+      - ./data:/app/data
+
+  scrape-cyber:
+    build: .
+    command: python scrapers/fetch_cyber_incidents.py
+    volumes:
+      - ./data:/app/data
+
+  serve:
+    build: .
+    command: python e2e/serve.py
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./site:/app/site:ro
+      - ./data:/app/data:ro

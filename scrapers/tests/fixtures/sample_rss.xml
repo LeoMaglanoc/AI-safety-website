@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CISA Cybersecurity Advisories</title>
+    <link>https://www.cisa.gov/cybersecurity-advisories</link>
+    <description>CISA Cybersecurity Advisories</description>
+    <item>
+      <title>Artificial Intelligence Model Serving Framework Vulnerability</title>
+      <link>https://www.cisa.gov/news-events/advisories/ai-001</link>
+      <description>A critical vulnerability was discovered in an artificial intelligence model serving framework that allows unauthorized access.</description>
+      <pubDate>Mon, 10 Feb 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yokogawa FAST/TOOLS ICS Advisory</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01</link>
+      <description>Yokogawa FAST/TOOLS versions R9.01 through R10.04 contain multiple vulnerabilities in the SCADA interface.</description>
+      <pubDate>Mon, 10 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Autonomous Vehicle Fleet Management System Alert</title>
+      <link>https://www.cisa.gov/news-events/advisories/av-001</link>
+      <description>An autonomous vehicle fleet management system has a vulnerability in its computer vision processing pipeline.</description>
+      <pubDate>Sat, 08 Feb 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Generic Router Firmware Update</title>
+      <link>https://www.cisa.gov/news-events/advisories/router-001</link>
+      <description>A buffer overflow was found in the router firmware affecting MAIN board processing.</description>
+      <pubDate>Fri, 07 Feb 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

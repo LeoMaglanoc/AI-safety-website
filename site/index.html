@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Safety Clocks</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>AI Safety Clocks</h1>
+    <p class="subtitle">Tracking time since last known AI-related safety incidents</p>
+  </header>
+
+  <main class="clock-grid">
+    <div id="clock1" class="clock-slot">
+      <div class="clock-card loading">
+        <p>Loading...</p>
+      </div>
+    </div>
+    <div id="clock2" class="clock-slot">
+      <div class="clock-card loading">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </main>
+
+  <div id="error-message" class="error-banner" style="display:none"></div>
+
+  <footer>
+    <p>Data sourced from <a href="https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/" target="_blank" rel="noopener">NHTSA SGO</a> and <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA</a>.</p>
+    <p class="footnote">AV collision dates are approximated to the 15th of the reported month per NHTSA reporting format.</p>
+  </footer>
+
+  <script src="js/clocks.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      initialize();
+    });
+  </script>
+</body>
+</html>
