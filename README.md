@@ -2,6 +2,8 @@
 
 A static GitHub Pages site displaying live "safety clocks" that track time elapsed since the last known AI-related safety incidents. Data is scraped daily from public government sources via GitHub Actions and rendered as live-ticking counters in the browser.
 
+Live site: [https://leonardo-maglanoc.com/AI-safety-website/](https://leonardo-maglanoc.com/AI-safety-website/)
+
 ## Clocks
 
 | Clock | What it tracks | Data source |
