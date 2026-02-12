@@ -11,7 +11,6 @@ A static GitHub Pages site displaying live "safety clocks" that track time elaps
 
 Clock cards are color-coded by elapsed time: green (>30 days), yellow (7–30 days), red (<7 days).
  
-
 ## Project Structure
 
 ```
