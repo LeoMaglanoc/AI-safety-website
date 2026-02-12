@@ -8,6 +8,7 @@ on:
       - 'data/**'
 
 permissions:
+  contents: read
   pages: write
   id-token: write
 
@@ -23,6 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
 
       - name: Prepare deploy directory
         run: |
