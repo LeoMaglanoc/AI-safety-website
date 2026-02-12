@@ -10,7 +10,7 @@ A static GitHub Pages site displaying live "safety clocks" that track time elaps
 | **Digital AI Safety Clock** | Time since last AI-related cybersecurity incident | [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) + [CISA Advisories RSS](https://www.cisa.gov/cybersecurity-advisories/all.xml) |
 
 Clock cards are color-coded by elapsed time: green (>30 days), yellow (7–30 days), red (<7 days).
-
+ 
 ## Project Structure
 
 ```
