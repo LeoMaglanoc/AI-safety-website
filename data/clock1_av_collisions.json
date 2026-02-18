@@ -3,13 +3,20 @@
   "clock_name": "Physical AI Safety Clock",
   "description": "Time since last autonomous vehicle collision",
   "last_incident": {
-    "date": "2025-12-15T00:00:00Z",
-    "title": "JAGUAR I-PACE ADS collision, San Francisco, CA",
+    "date": "2026-01-15T00:00:00Z",
+    "title": "ZOOX Zoox ADS collision, San Francisco, CA",
     "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
     "source_name": "NHTSA SGO",
     "severity": "property_damage"
   },
   "previous_incidents": [
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, San Francisco, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
     {
       "date": "2025-11-15T00:00:00Z",
       "title": "TOYOTA Highlander ADS collision, Miami, FL",
@@ -989,9 +996,198 @@
       "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
       "source_name": "NHTSA SGO",
       "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "ZOOX Zoox ADS collision, San Francisco, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, South San Francisco, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Palo Alto, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Orlando, FL",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Miami, FL",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Chandler, AZ",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Beverly Hills, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Scottsdale, AZ",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Washington, DC",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "TESLA Model Y ADS collision, Austin, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "TESLA Model Y ADS collision, Austin, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "TOYOTA Sienna ADS collision, Atlanta, GA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "TOYOTA Sienna ADS collision, Arlington, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, San Francisco, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "HYUNDAI Ioniq 5 ADS collision, Austin, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "HYUNDAI Ioniq 5 ADS collision, Dallas, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Los Angeles, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Phoenix, AZ",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Venice, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Tempe, AZ",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Austin, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2026-01-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Atlanta, GA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, West Hollywood, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Brisbane, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Inglewood, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-11-15T00:00:00Z",
+      "title": "HYUNDAI Ioniq 5 ADS collision, Austin, TX",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
+    },
+    {
+      "date": "2025-12-15T00:00:00Z",
+      "title": "JAGUAR I-PACE ADS collision, Santa Monica, CA",
+      "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
+      "source_name": "NHTSA SGO",
+      "severity": "property_damage"
     }
   ],
-  "last_updated": "2026-02-17T06:54:15Z",
+  "last_updated": "2026-02-18T06:57:04Z",
   "data_source": {
     "name": "NHTSA Standing General Order (SGO-2021-01)",
     "url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
