@@ -1187,7 +1187,7 @@
       "severity": "property_damage"
     }
   ],
-  "last_updated": "2026-02-18T06:57:04Z",
+  "last_updated": "2026-02-19T06:55:39Z",
   "data_source": {
     "name": "NHTSA Standing General Order (SGO-2021-01)",
     "url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv",
