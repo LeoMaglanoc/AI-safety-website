@@ -18,7 +18,7 @@
       "severity": "cyber_vulnerability"
     }
   ],
-  "last_updated": "2026-02-22T06:41:53Z",
+  "last_updated": "2026-02-23T06:59:27Z",
   "data_source": {
     "name": "CISA (KEV Catalog + Cybersecurity Advisories RSS)",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
