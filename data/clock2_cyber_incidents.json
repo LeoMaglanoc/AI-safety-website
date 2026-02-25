@@ -3,13 +3,20 @@
   "clock_name": "Digital AI Safety Clock",
   "description": "Time since last AI-related cybersecurity incident",
   "last_incident": {
-    "date": "2026-02-08T00:00:00Z",
-    "title": "ChatAssist Pro LLM Prompt Injection",
-    "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0005",
-    "source_name": "CISA KEV",
-    "severity": "cyber_vulnerability"
+    "date": "2026-02-24T12:00:00Z",
+    "title": "Schneider Electric EcoStruxure Building Operation Workstation",
+    "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02",
+    "source_name": "CISA Advisory",
+    "severity": "cyber_advisory"
   },
   "previous_incidents": [
+    {
+      "date": "2026-02-08T00:00:00Z",
+      "title": "ChatAssist Pro LLM Prompt Injection",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0005",
+      "source_name": "CISA KEV",
+      "severity": "cyber_vulnerability"
+    },
     {
       "date": "2026-02-05T00:00:00Z",
       "title": "DeepVision Analytics Privilege Escalation",
@@ -18,7 +25,7 @@
       "severity": "cyber_vulnerability"
     }
   ],
-  "last_updated": "2026-02-24T06:55:41Z",
+  "last_updated": "2026-02-25T06:57:47Z",
   "data_source": {
     "name": "CISA (KEV Catalog + Cybersecurity Advisories RSS)",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
